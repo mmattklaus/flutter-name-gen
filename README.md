@@ -1,7 +1,7 @@
 # Flutter name generator app 
 #### &DoubleRightArrow; Just flutter (zero dependency)
 
-A responsive cross-platform (Android, iOS, Windows, Mac, Linux) flutter name generator app with favorites build from the Google Developer Codelabs.
+A responsive cross-platform (Android, iOS, Windows, Mac, Linux, Web) flutter name generator app with favorites build from the Google Developer Codelabs.
 
 ## UI
 <p>Portrait</p>
